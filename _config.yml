@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Peter # add your name
 author-img: pic.jpg # add your photo
-about-author:  An attempt at organizing my thoughts.# add description
-social-twitter: # add your Twitter handle
-social-facebook: https://www.facebook.com/peter.c.skog # add your Facebook handle
-social-github: angstandapathy # add your Github handle
-social-linkedin: https://www.linkedin.com/in/peter-skog-048602166/ # add your Linkedin handle
+about-author:  An attempt at organizing my thoughts. # add description
+social-twitter: /petercskog # add your Twitter handle
+social-facebook: /peter.c.skog # add your Facebook handle
+social-github: /angstandapathy # add your Github handle
+social-linkedin: /peter-skog-048602166/ # add your Linkedin handle
 social-email: angstandapathyblog@gmail.com # add your Email address
 
 # Disqus
